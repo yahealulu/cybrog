@@ -1,0 +1,12 @@
+.Gaming-Library-Card{
+flex: 1 1 100%;
+}
+.Gaming-Library-Card ul{
+display: flex;
+justify-content: space-between;
+border-bottom: 1px solid var(--color-primary);
+padding: calc(var(--padding-primary)/2)0;
+}
+h4{
+    font-size: 1rem;
+}
